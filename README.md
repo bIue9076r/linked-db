@@ -1,6 +1,8 @@
 # Linked D(ata) B(ase)
 Shoddy implementation of a linked list database
 
+Version 1
+
 #### Custom Data Types
 ```
 offset_t = unsigned long long int;
